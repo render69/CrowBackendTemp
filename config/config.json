@@ -1,0 +1,5 @@
+{
+  "port": 18080,
+  "threads": 4,
+  "debug": true
+}

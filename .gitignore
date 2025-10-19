@@ -1,0 +1,18 @@
+# Build
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db

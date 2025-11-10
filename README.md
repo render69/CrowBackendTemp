@@ -57,15 +57,6 @@ This is a clean, ready-to-use backend template built on the [Crow](https://githu
 - CMake ≥ 3.14
 - Git
 
-**English:**
-```bash
-git clone https://github.com/yourname/crow_backend.git
-cd crow_backend
-./scripts/build.sh
-```
-
-**Русский:**
-
 ```bash
 git clone https://github.com/yourname/crow_backend.git
 cd crow_backend
